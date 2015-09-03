@@ -1,28 +1,30 @@
+# .gitignore file was created automatically when this repo was created
+# chose haskell as the programming language to ignore from the dropdown
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#*.slo
+#*.lo
+#*.o
+#*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+#*.gch
+#*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+#*.so
+#*.dylib
+#*.dll
 
 # Fortran module files
-*.mod
+#*.mod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+#*.lai
+#*.la
+#*.a
+#*.lib
 
 # Executables
-*.exe
-*.out
-*.app
+#*.exe
+#*.out
+#*.app
